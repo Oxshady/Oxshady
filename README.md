@@ -31,9 +31,7 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### Web Development
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+### Backend Development
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - ![REST API](https://img.shields.io/badge/-REST%20API-007ACC?logo=api&logoColor=white)
