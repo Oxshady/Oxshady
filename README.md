@@ -1,5 +1,5 @@
 # Hi there, I'm Shadi 👋
-![Hacker Vibes][([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2E4d3NoMnE5YmdnNnhzMWl2MHpodXNvZ244aGVycWtrdXIzbGVyZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif])]
+![Hacker Vibes](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmk2d3J6NjZva3lwaWJ3ZWJjaXBuMWI5bDJsNGNkbHVlZDZ3cWZlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy-downsized-large.gif)
 ### Junior Pentester | Software Engineering Student | Business Information Systems Student
 
 Welcome to my GitHub profile! I am a passionate and driven student at Holberton School and Business Information Systems, specializing in software engineering, cybersecurity, and technology. My journey is enriched with internships, boot camps, and hands-on experience in security, development, and deployment. 
