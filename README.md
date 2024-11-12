@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
-
----
-
 ## 💡 Skills & Technologies
 
 ### Programming Languages
@@ -63,5 +58,9 @@ I've built foundational knowledge in C programming, data structures, algorithms,
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
+
+---
 ## 📫 Get in Touch
 - LinkedIn: [linkedin](https://www.linkedin.com/in/shadi-mahmoud-213766228/)
