@@ -45,6 +45,7 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 ### DevOps & Deployment
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 - ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+- ![AWS](https://img.shields.io/badge/-Aws-009639?logo=aws&logoColor=white)
 
 ---
 
