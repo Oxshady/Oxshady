@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 ### Databases
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- SQL, NoSQL, ORM, ODM
 
 ### DevOps & Deployment
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
