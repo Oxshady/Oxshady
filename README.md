@@ -66,4 +66,4 @@ I've built foundational knowledge in C programming, data structures, algorithms,
 ---
 
 ## 📫 Get in Touch
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/shadi-mahmoud-213766228/)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/shadi-mahmoud-213766228/)
