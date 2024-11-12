@@ -1,5 +1,9 @@
 # Hi there, I'm Shadi 👋
-![Hacker Vibes](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmU3MjBldzhpanlwdjNmNmtkOTg5bGZ0YTNkZHFrOHY3c2lvZjF5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
+
 ### Junior Pentester | Software Engineering Student | Business Information Systems Student
 
 Welcome to my GitHub profile! I am a passionate and driven student at Holberton School and Business Information Systems, specializing in software engineering, cybersecurity, and technology. My journey is enriched with internships, boot camps, and hands-on experience in security, development, and deployment. 
@@ -48,13 +52,6 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 I am deeply involved in web security and regularly participate in Capture The Flag (CTF) competitions, where I explore a range of vulnerabilities and hone my penetration testing skills. My experience in security is complemented by formal training and hands-on practice, driving my growth as a junior pentester.
 
 - Areas of Focus: Web Security, CTF Challenges, Information Security
-
----
-
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
 
 ---
 
