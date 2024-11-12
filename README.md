@@ -1,9 +1,5 @@
 # Hi there, I'm Shadi 👋
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
-
 ### Junior Pentester | Software Engineering Student | Business Information Systems Student
 
 Welcome to my GitHub profile! I am a passionate and driven student at Holberton School and Business Information Systems, specializing in software engineering, cybersecurity, and technology. My journey is enriched with internships, boot camps, and hands-on experience in security, development, and deployment. 
@@ -19,6 +15,11 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
   - Cybersecurity Intern at ITI
   - Front-End Developer at NTI
 - 🛡️ Special Training: Malware Analysis at GDSC Boot Camp
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oxshady&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxshady&layout=compact&theme=radical)
 
 ---
 
