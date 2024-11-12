@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 - ![C++](https://img.shields.io/badge/-Cpp-00599C?logo=cpp&logoColor=white)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![PHP](https://img.shields.io/badge/-Php-F7DF1E?logo=php&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ### Backend Development
