@@ -59,7 +59,7 @@ I am deeply involved in web security and regularly participate in Capture The Fl
 
 ## 🌱 Learning Journey
 
-I've built foundational knowledge in C programming, data structures, algorithms, and operating systems, which has expanded into full-stack development with Python, Flask, Node.js, JavaScript, TypeScript, and database systems like MySQL and MongoDB. My recent focus includes malware analysis, computer architecture, and information security through CTFs and security practice.
+I've built foundational knowledge in C programming, data structures, algorithms, and operating systems, which has expanded into full-stack development with Python, Flask, Node.js, JavaScript, TypeScript, and database systems like MySQL and MongoDB. My recent focus includes web penetration testing , exploit dev through CTFs and security practice.
 
 ---
 
