@@ -1,20 +1,6 @@
 # Hi there, I'm Shadi 👋
 
-### Junior Pentester | Software Engineering Student | Business Information Systems Student
-
-Welcome to my GitHub profile! I am a passionate and driven student at Holberton School and Business Information Systems, specializing in software engineering, cybersecurity, and technology. My journey is enriched with internships, boot camps, and hands-on experience in security, development, and deployment. 
-
----
-
-## 🚀 About Me
-
-- 💻 Current Role: Junior Pentester, Software Engineering Student, Business Information Systems Student
-- 🎓 Education: Software Engineering at Holberton School, Business Information Systems
-- 💼 Internships:
-  - GRC Intern at WE
-  - Cybersecurity Intern at ITI
-  - Front-End Developer at NTI
-- 🛡️ Special Training: Malware Analysis at GDSC Boot Camp
+### Junior Pentester | Software Engineer
 
 ---
 
@@ -41,14 +27,6 @@ Welcome to my GitHub profile! I am a passionate and driven student at Holberton 
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 - ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 - ![AWS](https://img.shields.io/badge/-Aws-009639?logo=aws&logoColor=white)
-
----
-
-## 🔐 Security
-
-I am deeply involved in web security and regularly participate in Capture The Flag (CTF) competitions, where I explore a range of vulnerabilities and hone my penetration testing skills. My experience in security is complemented by formal training and hands-on practice, driving my growth as a junior pentester.
-
-- Areas of Focus: Web Security, CTF Challenges, Information Security
 
 ---
 
